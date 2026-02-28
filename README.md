@@ -62,7 +62,7 @@ y_pred_poly=poly_model.predict(x_test)
 
 #Evaluate models
 print('Name:Barath B')
-print('Reg no:25011113')
+print('Reg no:25009091')
 
 print('Linear Regression')
 print('MSE =',mean_squared_error(y_test,y_pred_linear))
